@@ -1,5 +1,9 @@
 
-# This is an attempt to learn Ionic2 with Angular2 along wit Typescript  
+# This is an attempt to learn Ionic2 with Angular2 along with Typescript  
+
+It lists github users using the Github API, shows details of the users and enables you to search for a user or users.
+
+Instructions:  
 
 To run the application cd into the project directory and then either run:
 
@@ -16,3 +20,6 @@ iOS:
 `ionic run ios for ios`  
 
 to install in your phone.
+
+Reference:  
+https://scotch.io/tutorials/build-a-mobile-app-with-angular-2-and-ionic-2
