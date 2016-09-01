@@ -17,7 +17,7 @@ Android:
 `ionic run android` 
 
 iOS:  
-`ionic run ios for ios`  
+`ionic run ios`  
 
 to install in your phone.
 
